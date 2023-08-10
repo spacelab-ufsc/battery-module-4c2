@@ -1,0 +1,20 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 95270ebd-bf33-49a5-840f-dadc8a9f9793)
+
+  (paper "A4")
+
+  (title_block
+    (title "Battery Module 4c2")
+    (date "2023-08-10")
+    (comment 1 "Vitória Beatriz Bianchin <vitoriabbianchin@gmail.com>")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
