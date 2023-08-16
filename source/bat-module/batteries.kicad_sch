@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 29907c93-91c8-404c-8658-6336f3e33892)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (bus (pts (xy 322.58 60.96) (xy 323.215 60.96))
+    (stroke (width 0) (type default))
+    (uuid d9470b32-3b7c-4753-a35c-e2578f20b0e4)
+  )
+)

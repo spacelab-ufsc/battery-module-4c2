@@ -2331,6 +2331,23 @@
     )
   )
 
+  (sheet (at 304.8 0) (size 12.7 204.47) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9d70911d-d84d-4b26-a042-f78f6f336ed4)
+    (property "Sheetname" "batteries" (at 304.8 -0.7116 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "batteries.kicad_sch" (at 304.8 205.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "bat-module"
+        (path "/95270ebd-bf33-49a5-840f-dadc8a9f9793" (page "2"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )

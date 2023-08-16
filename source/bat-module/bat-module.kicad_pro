@@ -377,7 +377,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -471,6 +471,10 @@
     [
       "95270ebd-bf33-49a5-840f-dadc8a9f9793",
       ""
+    ],
+    [
+      "9d70911d-d84d-4b26-a042-f78f6f336ed4",
+      "batteries"
     ]
   ],
   "text_variables": {}
