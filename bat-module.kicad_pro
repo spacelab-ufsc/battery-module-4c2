@@ -475,6 +475,10 @@
     [
       "9d70911d-d84d-4b26-a042-f78f6f336ed4",
       "batteries"
+    ],
+    [
+      "1702bfa0-1353-4489-b918-e02922a83113",
+      "heater-circuit"
     ]
   ],
   "text_variables": {}
