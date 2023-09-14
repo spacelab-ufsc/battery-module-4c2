@@ -479,6 +479,10 @@
     [
       "1702bfa0-1353-4489-b918-e02922a83113",
       "heater-circuit"
+    ],
+    [
+      "b57b31e8-d0d5-445b-837b-f145ff19436b",
+      "bat-monitoring"
     ]
   ],
   "text_variables": {}
