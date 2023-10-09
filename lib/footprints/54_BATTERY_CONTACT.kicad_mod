@@ -1,0 +1,6 @@
+(module "54_BATTERY_CONTACT" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start -7.41000 -7.50000) (end 5.59000 -7.50000) (layer Cmts.User) (width 0.2))
+  (fp_line (start 5.59000 7.50000) (end 5.59000 -7.50000) (layer Cmts.User) (width 0.2))
+  (fp_line (start -7.41000 7.50000) (end 5.59000 7.50000) (layer Cmts.User) (width 0.2))
+  (fp_line (start -7.41000 7.50000) (end -7.41000 -7.50000) (layer Cmts.User) (width 0.2))
+)
